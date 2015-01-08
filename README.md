@@ -1,4 +1,4 @@
 snk
 ===
 
-Kinectを使ってLEGO Mindstormを操作して，なにかをする！
+Kinectを用いてLEGO Mindstorm nxtを遠隔操作する．
